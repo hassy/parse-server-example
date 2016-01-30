@@ -1,0 +1,9 @@
+{
+  "databaseURI": "mongodb://localhost:27017/dev",
+  "cloud": "/home/myApp/cloud/main.js",
+  "appId": "myAppId",
+  "masterKey": "mySecretMasterKey",
+  "fileKey": "optionalFileKey",
+  "parseAPIPrefix": "/parse",
+  "port": 1337
+}
